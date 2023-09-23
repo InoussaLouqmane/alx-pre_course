@@ -1,3 +1,6 @@
-0x01-git/commit.sh
 commit.sh
+<<<<<<< HEAD
 create.sh
+=======
+0x01-git/create.sh
+>>>>>>> update_script
